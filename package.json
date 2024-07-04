@@ -1,0 +1,16 @@
+{
+  "name": "apiejercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts",
+    "mod": "ts-node ./src/model/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
